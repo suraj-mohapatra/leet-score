@@ -36,6 +36,7 @@ LeetCode problem solutions organized by problem number range.
 | 21 | Merge Two Sorted Lists | Linked List, Recursion / Iteration | Completed |
 | 26 | Remove Duplicates from Sorted Array | Array, Two Pointers | Completed |
 | 27 | Remove Element | Array, Two Pointers | Completed |
+| 28 | Find the Index of the First Occurrence in a String | String, String Matching, Brute Force | Completed |
 
 ### Problems 100-999
 
