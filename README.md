@@ -28,6 +28,7 @@ LeetCode problem solutions organized by problem number range.
 
 | Question number | Title | Concepts used | Status |
 |---|---|---|---|
+| 12 | Integer to Roman | Greedy, Hash Map | Completed |
 | 13 | Roman to Integer | String Traversal, Hash Map | Completed |
 | 14 | Longest Common Prefix | String Comparison | Completed |
 | 15 | 3Sum | Sorting, Two Pointers, Duplicate Skipping | Completed |
