@@ -37,6 +37,7 @@ LeetCode problem solutions organized by problem number range.
 | 26 | Remove Duplicates from Sorted Array | Array, Two Pointers | Completed |
 | 27 | Remove Element | Array, Two Pointers | Completed |
 | 28 | Find the Index of the First Occurrence in a String | String, String Matching, Brute Force | Completed |
+| 58 | Length of Last Word | String, String Traversal | Completed |
 
 ### Problems 100-999
 
