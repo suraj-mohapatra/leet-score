@@ -7,6 +7,7 @@ LeetCode problem solutions organized by problem number range.
 - `1-9/` - Problems 1 through 9
 - `10-99/` - Problems 10 through 99
 - `100-999/` - Problems 100 through 999
+- `1000-9999/` - Problems 1000 through 9999
 
 ## Progress
 
